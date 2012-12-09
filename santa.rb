@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 # Secret Santa - a tool to randomly select Christmas gifts from eBay.
 # Copyright (C) 2012 "Duncan Bayne" <dhgbayne@gmail.com>
 # 
@@ -14,8 +16,6 @@
 # You should have received a copy of the GNU Lesser General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>
 
-#!/usr/bin/env ruby
-
 require 'rubygems'
 require 'nokogiri'
 require 'rest_client'
@@ -27,7 +27,7 @@ load 'categories.rb'
 SEARCH_OPTIONS = 'LH_FS=1&_udlo=4&LH_BIN=1&_mPrRngCbx=1&_udhi=5&LH_PrefLoc=1&_arr=1'
 
 # number of presents to open
-PRESENTS = 12
+PRESENTS = 13
 
 # browser executable to use
 BROWSER = 'chromium-browser'
