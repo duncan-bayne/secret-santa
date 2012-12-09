@@ -1,4 +1,4 @@
 secret-santa
 ============
 
-An app that uses the eBay API to find random items for purchase.
+Secret Santa is a tool to randomly select Christmas gifts from eBay.
