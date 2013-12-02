@@ -57,7 +57,7 @@ def remove_overseas_nodes doc
 end
 
 def first_item_link category_doc
-  item_link = category_doc.xpath('//a[@class="vip"]').first
+  item_link = category_doc.xpath('//a[starts-with(@class, "vip")]').first
 end
 
 def random_item_url
