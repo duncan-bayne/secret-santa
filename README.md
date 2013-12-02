@@ -15,7 +15,7 @@ Edit `santa.rb` to configure the number of presents you want, and the browser to
 
 status
 ------
-Secret Santa was last tested on Monday 10th December 2012.  As it uses screen-scraping, changes to the eBay page layout may have broken it since then.  YMMV.
+Secret Santa was last tested in December 2013.  As it uses screen-scraping, changes to the eBay page layout may have broken it since then.  YMMV.
 
 licence
 -------
