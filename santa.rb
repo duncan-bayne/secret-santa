@@ -27,7 +27,7 @@ load 'categories.rb'
 SEARCH_OPTIONS = 'LH_FS=1&_udlo=4&LH_BIN=1&_mPrRngCbx=1&_udhi=5&LH_PrefLoc=1&_arr=1'
 
 # number of presents to open
-PRESENTS = 13
+PRESENTS = 3
 
 # browser executable to use
 BROWSER = 'firefox'
