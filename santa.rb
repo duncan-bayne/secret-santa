@@ -24,7 +24,7 @@ require 'rest_client'
 load 'categories.rb'
 
 # $4 - 5; Buy Now; Free Postage; Australia Only
-SEARCH_OPTIONS = 'LH_FS=1&_udlo=4&LH_BIN=1&_mPrRngCbx=1&_udhi=5&LH_PrefLoc=1&_arr=1'
+SEARCH_OPTIONS = 'LH_FS=1&_udlo=9&LH_BIN=1&_mPrRngCbx=1&_udhi=10&LH_PrefLoc=1&_arr=1'
 
 # number of presents to open
 PRESENTS = 3
